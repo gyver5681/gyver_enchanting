@@ -1,0 +1,121 @@
+## Comments can be added anywhere on a valid line by starting with '##'
+##
+## Note, trailing spaces will NOT be trimmed. If you want room between the end of the string and the start of a
+## comment on the same line, use TABs.
+tile.gyver_enchant:enchant_table.name=Enchant Crafting Table
+
+## Book Names 
+## All Purpose
+item.gyver_enchant:book_mending=§eEnchanted Book§r - Mending
+item.gyver_enchant:book_unbreaking_1=§eEnchanted Book§r - Unbreaking I
+item.gyver_enchant:book_unbreaking_2=§eEnchanted Book§r - Unbreaking II
+item.gyver_enchant:book_unbreaking_3=§eEnchanted Book§r - Unbreaking III
+## Armor
+item.gyver_enchant:book_aqua_affinity=§eEnchanted Book§r - Aqua Affinity
+item.gyver_enchant:book_blast_protection_1=§eEnchanted Book§r - Blast Protection I
+item.gyver_enchant:book_blast_protection_2=§eEnchanted Book§r - Blast Protection II
+item.gyver_enchant:book_blast_protection_3=§eEnchanted Book§r - Blast Protection III
+item.gyver_enchant:book_blast_protection_4=§eEnchanted Book§r - Blast Protection IV
+item.gyver_enchant:book_depth_strider_1=§eEnchanted Book§r - Depth Strider I
+item.gyver_enchant:book_depth_strider_2=§eEnchanted Book§r - Depth Strider II
+item.gyver_enchant:book_depth_strider_3=§eEnchanted Book§r - Depth Strider III
+item.gyver_enchant:book_feather_falling_1=§eEnchanted Book§r - Feather Falling I
+item.gyver_enchant:book_feather_falling_2=§eEnchanted Book§r - Feather Falling II
+item.gyver_enchant:book_feather_falling_3=§eEnchanted Book§r - Feather Falling III
+item.gyver_enchant:book_feather_falling_4=§eEnchanted Book§r - Feather Falling IV
+item.gyver_enchant:book_fire_protection_1=§eEnchanted Book§r - Fire Protection I
+item.gyver_enchant:book_fire_protection_2=§eEnchanted Book§r - Fire Protection II
+item.gyver_enchant:book_fire_protection_3=§eEnchanted Book§r - Fire Protection III
+item.gyver_enchant:book_fire_protection_4=§eEnchanted Book§r - Fire Protection IV
+item.gyver_enchant:book_frost_walker_1=§eEnchanted Book§r - Frost Walker I
+item.gyver_enchant:book_frost_walker_2=§eEnchanted Book§r - Frost Walker II
+item.gyver_enchant:book_projectile_protection_1=§eEnchanted Book§r - Projectile Protection I
+item.gyver_enchant:book_projectile_protection_2=§eEnchanted Book§r - Projectile Protection II
+item.gyver_enchant:book_projectile_protection_3=§eEnchanted Book§r - Projectile Protection III
+item.gyver_enchant:book_projectile_protection_4=§eEnchanted Book§r - Projectile Protection IV
+item.gyver_enchant:book_protection_1=§eEnchanted Book§r - Protection I
+item.gyver_enchant:book_protection_2=§eEnchanted Book§r - Protection II
+item.gyver_enchant:book_protection_3=§eEnchanted Book§r - Protection III
+item.gyver_enchant:book_protection_4=§eEnchanted Book§r - Protection IV
+item.gyver_enchant:book_respiration_1=§eEnchanted Book§r - Respiration I
+item.gyver_enchant:book_respiration_2=§eEnchanted Book§r - Respiration II
+item.gyver_enchant:book_respiration_3=§eEnchanted Book§r - Respiration III
+item.gyver_enchant:book_soul_speed_1=§eEnchanted Book§r - Soul Speed I
+item.gyver_enchant:book_soul_speed_2=§eEnchanted Book§r - Soul Speed II
+item.gyver_enchant:book_soul_speed_3=§eEnchanted Book§r - Soul Speed III
+item.gyver_enchant:book_swift_sneak_1=§eEnchanted Book§r - Swift Sneak I
+item.gyver_enchant:book_swift_sneak_2=§eEnchanted Book§r - Swift Sneak II
+item.gyver_enchant:book_swift_sneak_3=§eEnchanted Book§r - Swift Sneak III
+item.gyver_enchant:book_thorns_1=§eEnchanted Book§r - Thorns I
+item.gyver_enchant:book_thorns_2=§eEnchanted Book§r - Thorns II
+item.gyver_enchant:book_thorns_3=§eEnchanted Book§r - Thorns III
+## Melee Weapons
+item.gyver_enchant:book_bane_of_arthropods_1=§eEnchanted Book§r - Bane of Arthropods I
+item.gyver_enchant:book_bane_of_arthropods_2=§eEnchanted Book§r - Bane of Arthropods II
+item.gyver_enchant:book_bane_of_arthropods_3=§eEnchanted Book§r - Bane of Arthropods III
+item.gyver_enchant:book_bane_of_arthropods_4=§eEnchanted Book§r - Bane of Arthropods IV
+item.gyver_enchant:book_bane_of_arthropods_5=§eEnchanted Book§r - Bane of Arthropods V
+item.gyver_enchant:book_fire_aspect_1=§eEnchanted Book§r - Fire Aspect I
+item.gyver_enchant:book_fire_aspect_2=§eEnchanted Book§r - Fire Aspect II
+item.gyver_enchant:book_looting_1=§eEnchanted Book§r - Looting I
+item.gyver_enchant:book_looting_2=§eEnchanted Book§r - Looting II
+item.gyver_enchant:book_looting_3=§eEnchanted Book§r - Looting III
+item.gyver_enchant:book_knockback_1=§eEnchanted Book§r - Knockback I
+item.gyver_enchant:book_knockback_2=§eEnchanted Book§r - Knockback II
+item.gyver_enchant:book_sharpness_1=§eEnchanted Book§r - Sharpness I
+item.gyver_enchant:book_sharpness_2=§eEnchanted Book§r - Sharpness II
+item.gyver_enchant:book_sharpness_3=§eEnchanted Book§r - Sharpness III
+item.gyver_enchant:book_sharpness_4=§eEnchanted Book§r - Sharpness IV
+item.gyver_enchant:book_sharpness_5=§eEnchanted Book§r - Sharpness V
+item.gyver_enchant:book_smite_1=§eEnchanted Book§r - Smite I
+item.gyver_enchant:book_smite_2=§eEnchanted Book§r - Smite II
+item.gyver_enchant:book_smite_3=§eEnchanted Book§r - Smite III
+item.gyver_enchant:book_smite_4=§eEnchanted Book§r - Smite IV
+item.gyver_enchant:book_smite_5=§eEnchanted Book§r - Smite V
+## Ranged Weapons
+item.gyver_enchant:book_flame=§eEnchanted Book§r - Flame
+item.gyver_enchant:book_infinity=§eEnchanted Book§r - Infinity
+item.gyver_enchant:book_multishot=§eEnchanted Book§r - Multishot
+item.gyver_enchant:book_piercing_1=§eEnchanted Book§r - Piercing I
+item.gyver_enchant:book_piercing_2=§eEnchanted Book§r - Piercing II
+item.gyver_enchant:book_piercing_3=§eEnchanted Book§r - Piercing III
+item.gyver_enchant:book_piercing_4=§eEnchanted Book§r - Piercing IV
+item.gyver_enchant:book_power_1=§eEnchanted Book§r - Power I
+item.gyver_enchant:book_power_2=§eEnchanted Book§r - Power II
+item.gyver_enchant:book_power_3=§eEnchanted Book§r - Power III
+item.gyver_enchant:book_power_4=§eEnchanted Book§r - Power IV
+item.gyver_enchant:book_power_5=§eEnchanted Book§r - Power V
+item.gyver_enchant:book_punch_1=§eEnchanted Book§r - Punch I
+item.gyver_enchant:book_punch_2=§eEnchanted Book§r - Punch II
+item.gyver_enchant:book_quick_charge_1=§eEnchanted Book§r - Quick Charge I
+item.gyver_enchant:book_quick_charge_2=§eEnchanted Book§r - Quick Charge II
+item.gyver_enchant:book_quick_charge_3=§eEnchanted Book§r - Quick Charge III
+## Tridents - Kind of a mix of Melee and Ranged
+item.gyver_enchant:book_channeling=§eEnchanted Book§r - Channeling
+item.gyver_enchant:book_impaling_1=§eEnchanted Book§r - Impaling I
+item.gyver_enchant:book_impaling_2=§eEnchanted Book§r - Impaling II
+item.gyver_enchant:book_impaling_3=§eEnchanted Book§r - Impaling III
+item.gyver_enchant:book_impaling_4=§eEnchanted Book§r - Impaling IV
+item.gyver_enchant:book_impaling_5=§eEnchanted Book§r - Impaling V
+item.gyver_enchant:book_loyalty_1=§eEnchanted Book§r - Loyalty I
+item.gyver_enchant:book_loyalty_2=§eEnchanted Book§r - Loyalty II
+item.gyver_enchant:book_loyalty_3=§eEnchanted Book§r - Loyalty III
+item.gyver_enchant:book_riptide_1=§eEnchanted Book§r - Riptide I
+item.gyver_enchant:book_riptide_2=§eEnchanted Book§r - Riptide II
+item.gyver_enchant:book_riptide_3=§eEnchanted Book§r - Riptide III
+## Tools
+item.gyver_enchant:book_efficiency_1=§eEnchanted Book§r - Efficiency I
+item.gyver_enchant:book_efficiency_2=§eEnchanted Book§r - Efficiency II
+item.gyver_enchant:book_efficiency_3=§eEnchanted Book§r - Efficiency III
+item.gyver_enchant:book_efficiency_4=§eEnchanted Book§r - Efficiency IV
+item.gyver_enchant:book_efficiency_5=§eEnchanted Book§r - Efficiency V
+item.gyver_enchant:book_fortune_1=§eEnchanted Book§r - Fortune I
+item.gyver_enchant:book_fortune_2=§eEnchanted Book§r - Fortune II
+item.gyver_enchant:book_fortune_3=§eEnchanted Book§r - Fortune III
+item.gyver_enchant:book_luck_of_the_sea_1=§eEnchanted Book§r - Luck of the Sea I
+item.gyver_enchant:book_luck_of_the_sea_2=§eEnchanted Book§r - Luck of the Sea II
+item.gyver_enchant:book_luck_of_the_sea_3=§eEnchanted Book§r - Luck of the Sea III
+item.gyver_enchant:book_lure_1=§eEnchanted Book§r - Lure I
+item.gyver_enchant:book_lure_2=§eEnchanted Book§r - Lure II
+item.gyver_enchant:book_lure_3=§eEnchanted Book§r - Lure III
+item.gyver_enchant:book_silk_touch=§eEnchanted Book§r - Silk Touch

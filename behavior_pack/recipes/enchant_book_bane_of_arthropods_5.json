@@ -1,0 +1,39 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "gyver_enchant:enchant_book_bane_of_arthropods_5"
+        },
+        "tags": [
+            "enchant_crafting_table"
+        ],
+        "pattern": [
+            "LLL",
+            "LBL",
+            "RrR"
+        ],
+        "key": {
+            "B": {
+                "item": "book"
+            },
+            "R": {
+                "item": "minecraft:fermented_spider_eye"
+            },
+            "r": {
+                "item": "minecraft:web"
+            },
+            "L": {
+                "item": "minecraft:lapis_lazuli"
+            }
+        },
+        "unlock": [
+            {
+                "item": "minecraft:book"
+            }
+        ],
+        "result": {
+            "item": "gyver_enchant:book_bane_of_arthropods_5"
+        },
+        "priority": -1
+    }
+}

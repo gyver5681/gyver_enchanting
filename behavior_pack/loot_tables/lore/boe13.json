@@ -1,0 +1,31 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:written_book",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_book_contents",
+                            "author": "Gyver5681",
+                            "title": "BOE Vol 13",
+                            "pages": [
+                                "§lBook of Enchanting Vol 13§r",
+                                "",
+                                "§lSlaying the Undead§r",
+                                "§lSmite I:§r\nPlace your book in the center (B) and use a piece of rotten flesh as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                                "§lSmite II:§r\nPlace your book in the center (B) and use a bone as the reagent (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \n R §r",
+                                "§lSmite III:§r\nPlace your book in the center (B) and use a stone sword as the reagent (R). Finish the enchantment with a row of lapis along the top  (L).\n§lLLL\n B \n R §r",
+                                "§lSmite IV:§r\nPlace your book in the center (B) and use a ghast tear as the reagent (R). Finish the enchantment with a row of lapis along the top and on the left (L).\n§lLLL\nLB \n R §r",
+                                "§lSmite V:§r\nPlace your book in the center (B) and use a wither skeleton skull as the reagent (R). Finish the enchantment with a a row of lapis along the top and on both sides (L).\n§lLLL\nLBL\n R §r"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

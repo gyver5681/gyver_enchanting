@@ -1,0 +1,32 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:written_book",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_book_contents",
+                            "author": "Gyver5681",
+                            "title": "BOE Vol 1",
+                            "pages": [
+                                "§lBook of Enchanting Vol 1§r",
+                                "",
+                                "§lMaking an Enchant Crafting Table:§r\nThe first order of business is to create the proper workspace.",
+                                "This is done by starting with an enchantment table in the center of your crafting table (E), placing an extra crafting table (C) under it, then surrounding it with bookshelves (B).\n§lBBB\nBEB\nBCB§r",
+                                "§lEfficiency I:§r\nPlace your book in the center (B) and use three pieces of charcoal as the reagents (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \nRRR§r",
+                                "§lPower I:§r\nPlace your book in the center (B) and use an arrow (R) and a piece of flint (r) as the reagents. Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \nR r§r",
+                                "§lProtection I:§r\nPlace your book in the center (B) and use a rabbit hide as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                                "§lSharpness I:§r\nPlace your book in the center (B) and use a piece of flint as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                                "§lUnbreaking I:§r\nPlace your book in the center (B) and use a iron ingot as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

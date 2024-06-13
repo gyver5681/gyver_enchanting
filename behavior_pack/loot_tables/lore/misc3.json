@@ -1,0 +1,38 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:written_book",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_book_contents",
+                            "author": "Gyver5681",
+                            "title": "Misc Enchants v3",
+                            "pages": [
+                                "§lMiscellaneous Enchants Vol 3§r",
+                                "",
+                                "§lRanged Weapon Enchantments§r",
+                                "§lInfinity:§r\nPlace your book in the center (B) and use three arrows as the reagents (R). Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \nRRR§r",
+                                "§lMultishot:§r\nPlace your book in the center (B) and use two arrows as the reagents (R). Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \nR R§r",
+                                "§lPiercing I:§r\nPlace your book in the center (B) and use a cactus as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                                "§lPiercing II:§r\nPlace your book in the center (B) and use two pieces of redstone (R) and a cactus (r) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nRrR§r",
+                                "§lPiercing III:§r\nPlace your book in the center (B) and use a piece of pointed dripstone as the reagent (R). Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \n R §r",
+                                "§lPiercing IV:§r\nPlace your book in the center (B) and use two pieces of redstone (R) and a piece of pointed dripstone (r) as the reagents. Finish the enchantment with lapis along the top and left side (L).\n§lLLL\nLB \nRrR§r",
+                                "§lPower IV:§r\nPlace your book in the center (B) and use an arrow (A), a flint and steel (F), and an amethyst shard (S) as the reagents. Finish the enchantment with lapis along the top and left side (L).\n§lLLL\nLB \nAFS§r",
+                                "§lPunch I:§r\nPlace your book in the center (B) and use an arrow (R) and a potato (r) as the reagents. Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \nR r§r",
+                                "§lPunch II:§r\nPlace your book in the center (B) and use two arrows (R) and a poisonous potato (r) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nRrR§r",
+                                "§lQuick Charge I:§r\nPlace your book in the center (B) and use some sugar as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                                "§lQuick Charge II:§r\nPlace your book in the center (B) and use a cookie as the reagent (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \n R §r",
+                                "§lQuick Charge III:§r\nPlace your book in the center (B) and use a cake as the reagent (R). Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \n R §r"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

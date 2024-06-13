@@ -1,0 +1,36 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "gyver_enchant:enchant_book_impaling_2"
+        },
+        "tags": [
+            "enchant_crafting_table"
+        ],
+        "pattern": [
+            "L L",
+            " B ",
+            " R "
+        ],
+        "key": {
+            "B": {
+                "item": "book"
+            },
+            "R": {
+                "item": "minecraft:iron_sword"
+            },
+            "L": {
+                "item": "minecraft:lapis_lazuli"
+            }
+        },
+        "unlock": [
+            {
+                "item": "minecraft:book"
+            }
+        ],
+        "result": {
+            "item": "gyver_enchant:book_impaling_2"
+        },
+        "priority": -1
+    }
+}

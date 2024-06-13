@@ -1,0 +1,31 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:written_book",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_book_contents",
+                            "author": "Gyver5681",
+                            "title": "BOE Vol 3",
+                            "pages": [
+                                "§lBook of Enchanting Vol 3§r",
+                                "",
+                                "§lAdvanced Enchantments§r",
+                                "§lEfficiency III:§r\nPlace your book in the center (B) and use a cut copper slab (R) and a polished deepslate slab (r) as the reagents. Finish the enchantment with three pieces of lapis across the top (L).\n§lLLL\n B \nR r§r",
+                                "§lPower III:§r\nPlace your book in the center (B) and use an arrow (A), a piece of flint (F), and an amethyst shard (S) as the reagents. Finish the enchantment with three pieces of lapis across the top (L).\n§lLLL\n B \nAFS§r",
+                                "§lProtection III:§r\nPlace your book in the center (B) and use a piece of nether quartz as the reagent (R). Finish the enchantment with three pieces of lapis across the top (L).\n§lL L\n B \n R §r",
+                                "§lSharpness III:§r\nPlace your book in the center (B) and use a piece of flint (R) and an amethyst shard (r) as the reagents. Finish the enchantment with three pieces of lapis across the top (L).\n§lLLL\n B \nR r§r",
+                                "§lUnbreaking III:§r\nPlace your book in the center (B) and use a diamond as the reagent (R). Finish the enchantment with three pieces of lapis across the top (L).\n§lLLL\n B \n R §r"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

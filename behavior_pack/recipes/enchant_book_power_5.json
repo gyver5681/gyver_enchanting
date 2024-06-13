@@ -1,0 +1,39 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "gyver_enchant:enchant_book_power_5"
+        },
+        "tags": [
+            "enchant_crafting_table"
+        ],
+        "pattern": [
+            "LLL",
+            "LBL",
+            "RrR"
+        ],
+        "key": {
+            "B": {
+                "item": "book"
+            },
+            "R": {
+                "item": "minecraft:bamboo"
+            },
+            "r": {
+                "item": "minecraft:chain"
+            },
+            "L": {
+                "item": "minecraft:lapis_lazuli"
+            }
+        },
+        "unlock": [
+            {
+                "item": "minecraft:book"
+            }
+        ],
+        "result": {
+            "item": "gyver_enchant:book_power_5"
+        },
+        "priority": -1
+    }
+}

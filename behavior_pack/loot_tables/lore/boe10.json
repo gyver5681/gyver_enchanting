@@ -1,0 +1,31 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:written_book",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_book_contents",
+                            "author": "Gyver5681",
+                            "title": "BOE Vol 10",
+                            "pages": [
+                                "§lBook of Enchanting Vol 10§r",
+                                "",
+                                "§lI Hate Spiders§r",
+                                "§lBane of Arthropods I:§r\nPlace your book in the center (B) and use a spider eye as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                                "§lBane of Arthropods II:§r\nPlace your book in the center (B) and use two spider eyes as the reagents (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nR R§r",
+                                "§lBane of Arthropods III:§r\nPlace your book in the center (B) and use a fermented spider eye as the reagent (R). Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \n R §r",
+                                "§lBane of Arthropods IV:§r\nPlace your book in the center (B) and use two fermented spider eyes as the reagents (R). Finish the enchantment with a row of lapis along the top and on the left (L).\n§lLLL\nLB \nR R§r",
+                                "§lBane of Arthropods V:§r\nPlace your book in the center (B) and use two fermented spider eyes (R) and a web (r) as the reagents. Finish the enchantment with a piece of lapis along the the top and both sides (L).\n§lLLL\nLBL\nRrR§r"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+   "resource_pack_name" : "gyver_enchant",
+   "texture_name" : "atlas.terrain",
+   "padding" : 8,
+   "num_mip_levels" : 4,
+   "texture_data" : {
+      "ge_crafting_table_bottom" : {
+         "textures" : "textures/blocks/gyver_enchant_table_bottom"
+      },
+      "ge_crafting_table_front" : {
+         "textures" : "textures/blocks/gyver_enchant_table_front"
+      },
+      "ge_crafting_table_side" : {
+         "textures" : "textures/blocks/gyver_enchant_table_side"
+      },
+      "ge_crafting_table_top" : {
+         "textures" : "textures/blocks/gyver_enchant_table_top"
+      }
+   }
+}

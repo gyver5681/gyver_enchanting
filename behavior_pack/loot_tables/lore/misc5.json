@@ -1,0 +1,29 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:written_book",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_book_contents",
+                            "author": "Gyver5681",
+                            "title": "Misc Enchants v5",
+                            "pages": [
+                                "§lMiscellaneous Enchants Vol 5§r",
+                                "",
+                                "§lTool Enchantments§r",
+                                "§lEfficiency IV:§r\nPlace your book in the center (B) and use a polished blackstone brick slab (P), a stone pickaxe (S), and a nether brick slab (N) as the reagents. Finish the enchantment with lapis along the top and left side (L).\n§lLLL\nLB \nPSN§r",
+                                "§lFortune I:§r\nPlace your book in the center (B) and use a copper ore block as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                                "§lFortune II:§r\nPlace your book in the center (B) and use two iron ore blocks as the reagents (R). Finish the enchantment with a piece of lapis in the top corners (L).\n§lL L\n B \nR R§r"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

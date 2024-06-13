@@ -1,0 +1,42 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "gyver_enchant:enchant_book_aqua_affinity"
+        },
+        "tags": [
+            "enchant_crafting_table"
+        ],
+        "pattern": [
+            "LLL",
+            " B ",
+            "PSN"
+        ],
+        "key": {
+            "B": {
+                "item": "book"
+            },
+            "P": {
+                "item": "minecraft:prismarine"
+            },
+            "S": {
+                "item": "minecraft:sea_lantern"
+            },
+            "N": {
+                "item": "minecraft:nautilus_shell"
+            },
+            "L": {
+                "item": "minecraft:lapis_lazuli"
+            }
+        },
+        "unlock": [
+            {
+                "item": "minecraft:book"
+            }
+        ],
+        "result": {
+            "item": "gyver_enchant:book_aqua_affinity"
+        },
+        "priority": -1
+    }
+}

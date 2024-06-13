@@ -1,0 +1,24 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:written_book",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_book_contents",
+                            "author": "Gyver5681",
+                            "title": "Sharpness V",
+                            "pages": [
+                                "Place your book in the center (B).\nPlace lapis along the top and sides (L).\nPlace a chain in the bottom Left and Right corners (R) and a block of iron in the bottom (r).\n§lLLL\nLBL\nRrR§r"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

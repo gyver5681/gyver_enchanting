@@ -1,0 +1,32 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:written_book",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_book_contents",
+                            "author": "Gyver5681",
+                            "title": "Misc Enchants v2",
+                            "pages": [
+                                "§lMiscellaneous Enchants Vol 2§r",
+                                "",
+                                "§lMelee Weapon Enchantments§r",
+                                "§lLooting I:§r\nPlace your book in the center (B) and use an emerald as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                                "§lLooting II:§r\nPlace your book in the center (B) and use two emeralds as the reagents (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nR R§r",
+                                "§lLooting III:§r\nPlace your book in the center (B) and use an emerald block as the reagent (R). Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \n R §r",
+                                "§lKnockback I:§r\nPlace your book in the center (B) and use a potato as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                                "§lKnockback II:§r\nPlace your book in the center (B) and use two poisonous potatoes as the reagents (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nR R§r",
+                                "§lSharpness IV:§r\nPlace your book in the center (B) and use a flint and steel (R) and an amethyst shard (r) as the reagents. Finish the enchantment with lapis along the top and left side (L).\n§lLLL\nLB \nR r§r"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "format_version": "1.20.10", 
+    "gyver_enchant:enchant_table" : {
+        "textures" : {
+            "down" : "ge_crafting_table_bottom",
+            "east" : "ge_crafting_table_side",
+            "north" : "ge_crafting_table_front",
+            "south" : "ge_crafting_table_front",
+            "up" : "ge_crafting_table_top",
+            "west" : "ge_crafting_table_side"
+        },
+        "carried_textures": {
+            "down" : "ge_crafting_table_bottom",
+            "east" : "ge_crafting_table_side",
+            "north" : "ge_crafting_table_front",
+            "south" : "ge_crafting_table_front",
+            "up" : "ge_crafting_table_top",
+            "west" : "ge_crafting_table_side"
+        },
+        "isotropic": {
+            "down" : "ge_crafting_table_bottom",
+            "east" : "ge_crafting_table_side",
+            "north" : "ge_crafting_table_front",
+            "south" : "ge_crafting_table_front",
+            "up" : "ge_crafting_table_top",
+            "west" : "ge_crafting_table_side"
+        },
+        "brightness_gamma": 1, 
+        "sound" : "stone"
+    }
+}

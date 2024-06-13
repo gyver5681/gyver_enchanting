@@ -1,0 +1,38 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:written_book",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_book_contents",
+                            "author": "Gyver5681",
+                            "title": "Misc Enchants v4",
+                            "pages": [
+                                "§lMiscellaneous Enchants Vol 4§r",
+                                "",
+                                "§lTrident Enchantments§r",
+                                "§lChanneling:§r\nPlace your book in the center (B) and use a lightning rod as the reagent (R). Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \n R §r",
+                                "§lImpaling I:§r\nPlace your book in the center (B) and use a wooden sword as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                                "§lImpaling II:§r\nPlace your book in the center (B) and use an iron sword as the reagent (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \n R §r",
+                                "§lImpaling III:§r\nPlace your book in the center (B) and use a golden sword as the reagent (R). Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \n R §r",
+                                "§lImpaling IV:§r\nPlace your book in the center (B) and use an end rod as the reagent (R). Finish the enchantment with lapis along the top and left side (L).\n§lLLL\nLB \n R §r",
+                                "§lImpaling V:§r\nPlace your book in the center (B) and use a diamond sword as the reagent (R). Finish the enchantment with lapis along the top and sides (L).\n§lLLL\nLBL\n R §r",
+                                "§lLoyalty I:§r\nPlace your book in the center (B) and use a lead as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                                "§lLoyalty II:§r\nPlace your book in the center (B) and use a lead (R) and a prismarine shard (r) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nR r§r",
+                                "§lLoyalty III:§r\nPlace your book in the center (B) and use two leads (R) and a prismarine crystal (r) as the reagents. Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \nRrR§r",
+                                "§lRiptide I:§r\nPlace your book in the center (B) and use a prismarine shard as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                                "§lRiptide II:§r\nPlace your book in the center (B) and use prismarine crystals (R) and a prismarine shard (r) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nRrR§r",
+                                "§lRiptide III:§r\nPlace your book in the center (B) and use prismarine shards (R) and a heart of the sea (r) as the reagents. Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \nRrR§r"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

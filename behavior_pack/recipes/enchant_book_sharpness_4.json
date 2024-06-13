@@ -1,0 +1,39 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "gyver_enchant:enchant_book_sharpness_4"
+        },
+        "tags": [
+            "enchant_crafting_table"
+        ],
+        "pattern": [
+            "LLL",
+            "LB ",
+            "R r"
+        ],
+        "key": {
+            "B": {
+                "item": "book"
+            },
+            "R": {
+                "item": "minecraft:flint_and_steel"
+            },
+            "r": {
+                "item": "minecraft:amethyst_shard"
+            },
+            "L": {
+                "item": "minecraft:lapis_lazuli"
+            }
+        },
+        "unlock": [
+            {
+                "item": "minecraft:book"
+            }
+        ],
+        "result": {
+            "item": "gyver_enchant:book_sharpness_4"
+        },
+        "priority": -1
+    }
+}

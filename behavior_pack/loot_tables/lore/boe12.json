@@ -1,0 +1,31 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:written_book",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_book_contents",
+                            "author": "Gyver5681",
+                            "title": "BOE Vol 12",
+                            "pages": [
+                                "§lBook of Enchanting Vol 12§r",
+                                "§lFish Tales§r",
+                                "§lLuck of the Sea I:§r\nPlace your book in the center (B) and use a waterlily (R) as the reagent. Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                                "§lLuck of the Sea II:§r\nPlace your book in the center (B) and use a sea pickle (R) as the reagent. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \n R §r",
+                                "§lLuck of the Sea III:§r\nPlace your book in the center (B) and use a piece of seagrass (S), a sea pickle (P), and a piece of kelp (K) as the reagents. Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \nSPK§r",
+                                "§lLure I:§r\nPlace your book in the center (B) and use a raw cod (R) as the reagent. Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                                "§lLure II:§r\nPlace your book in the center (B) and use a raw salmon (S) and a tropical fish (T) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nS T§r",
+                                "§lLure III:§r\nPlace your book in the center (B) and use a turtle egg (T) as the reagent. Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \n T §r"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

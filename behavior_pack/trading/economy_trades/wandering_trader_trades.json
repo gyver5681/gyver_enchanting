@@ -1,0 +1,1460 @@
+{
+  "tiers": [
+    {
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                      {
+                          "function": "set_book_contents",
+                          "author": "Gyver5681",
+                          "title": "BOE Vol 1",
+                          "pages": [
+                              "§lBook of Enchanting Vol 1§r",
+                              "",
+                              "§lMaking an Enchant Crafting Table:§r\nThe first order of business is to create the proper workspace.",
+                              "This is done by starting with an enchantment table in the center of your crafting table (E), placing an extra crafting table (C) under it, then surrounding it with bookshelves (B).\n§lBBB\nBEB\nBCB§r",
+                              "§lEfficiency I:§r\nPlace your book in the center (B) and use three pieces of charcoal as the reagents (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \nRRR§r",
+                              "§lPower I:§r\nPlace your book in the center (B) and use an arrow (R) and a piece of flint (r) as the reagents. Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \nR r§r",
+                              "§lProtection I:§r\nPlace your book in the center (B) and use a rabbit hide as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                              "§lSharpness I:§r\nPlace your book in the center (B) and use a piece of flint as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                              "§lUnbreaking I:§r\nPlace your book in the center (B) and use a iron ingot as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r"
+                          ]
+                      }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num_to_select": 3,
+          "trades": [
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "BOE Vol 2",
+                      "pages": [
+                          "§lBook of Enchanting Vol 2§r",
+                          "",
+                          "§lNovice Enchantments§r",
+                          "§lEfficiency II:§r\nPlace your book in the center (B) and use a lantern as the reagent (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \n R §r",
+                          "§lPower II:§r\nPlace your book in the center (B) and use an arrow (R) and a flint & steel (r) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nR r§r",
+                          "§lProtection II:§r\nPlace your book in the center (B) and use a piece of leather as the reagent (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \n R §r",
+                          "§lSharpness II:§r\nPlace your book in the center (B) and use a flint & steel as the reagent (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \n R §r",
+                          "§lUnbreaking II:§r\nPlace your book in the center (B) and use a block of obsidian as the reagent (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \n R §r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "BOE Vol 3",
+                      "pages": [
+                          "§lBook of Enchanting Vol 3§r",
+                          "",
+                          "§lAdvanced Enchantments§r",
+                          "§lEfficiency III:§r\nPlace your book in the center (B) and use a cut copper slab (R) and a polished deepslate slab (r) as the reagents. Finish the enchantment with three pieces of lapis across the top (L).\n§lLLL\n B \nR r§r",
+                          "§lPower III:§r\nPlace your book in the center (B) and use an arrow (A), a piece of flint (F), and an amethyst shard (S) as the reagents. Finish the enchantment with three pieces of lapis across the top (L).\n§lLLL\n B \nAFS§r",
+                          "§lProtection III:§r\nPlace your book in the center (B) and use a piece of nether quartz as the reagent (R). Finish the enchantment with three pieces of lapis across the top (L).\n§lL L\n B \n R §r",
+                          "§lSharpness III:§r\nPlace your book in the center (B) and use a piece of flint (R) and an amethyst shard (r) as the reagents. Finish the enchantment with three pieces of lapis across the top (L).\n§lLLL\n B \nR r§r",
+                          "§lUnbreaking III:§r\nPlace your book in the center (B) and use a diamond as the reagent (R). Finish the enchantment with three pieces of lapis across the top (L).\n§lLLL\n B \n R §r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "BOE Vol 4",
+                      "pages": [
+                          "§lBook of Enchanting Vol 4§r",
+                          "§lSpecialist Protections§r",
+                          "§lBlast Protection I:§r\nPlace your book in the center (B) and use two pieces of gunpowder (R) and a rabbit hide (r) as the reagents. Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \nRrR§r",
+                          "§lBlast Protection II:§r\nPlace your book in the center (B) and use two pieces of gunpowder (R) and a piece of leather (r) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nRrR§r",
+                          "§lFire Protection I:§r\nPlace your book in the center (B) and use two pieces of charcoal (R) and a rabbit hide (r) as the reagents. Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \nRrR§r",
+                          "§lFire Protection II:§r\nPlace your book in the center (B) and use two pieces of charcoal (R) and a piece of leather (r) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nRrR§r",
+                          "§lProjectile Protection I:§r\nPlace your book in the center (B) and use two arrows (R) and a rabbit hide (r) as the reagents. Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \nRrR§r",
+                          "§lProjectile Protection II:§r\nPlace your book in the center (B) and use two arrows (R) and a piece of leather (r) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nRrR§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "BOE Vol 5",
+                      "pages": [
+                          "§lBook of Enchanting Vol 5§r",
+                          "",
+                          "§lPractical Armor Enchants§r",
+                          "§lDepth Strider I:§r\nPlace your book in the center (B) and use two pieces of dried kelp (R) and an egg (r) as the reagents. Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \nRrR§r",
+                          "§lFeather Falling I:§r\nPlace your book in the center (B) and use two feathers (R) as the reagents. Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \nR R§r",
+                          "§lFeather Falling II:§r\nPlace your book in the center (B) and use three feathers (R) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nRRR§r",
+                          "§lRespiration I:§r\nPlace your book in the center (B) and use a pufferfish as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                          "§lThorns I:§r\nPlace your book in the center (B) and use a stick as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "BOE Vol 6",
+                      "pages": [
+                          "§lBook of Enchanting Vol 6§r",
+                          "§lLanding Gracefully§r",
+                          "§lFeather Falling III:§r\nPlace your book in the center (B) and use two feathers (R) and a slime ball (r) as the reagents. Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \nRrR§r",
+                          "§lFeather Falling IV:§r\nPlace your book in the center (B) and use two feathers (R) and a slime block (r) as the reagents. Finish the enchantment with a row of lapis along the top and on the left (L).\n§lLLL\nLB \nRrR§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "BOE Vol 7",
+                      "pages": [
+                          "§lBook of Enchanting Vol 7§r",
+                          "§lHow Not to Get Blown Up§r",
+                          "§lBlast Protection III:§r\nPlace your book in the center (B) and use two TNT (R) and a piece of nether quartz (r) as the reagents. Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \nRrR§r",
+                          "§lBlast Protection IV:§r\nPlace your book in the center (B) and use two TNT (R) and a scrap of netherite (r) as the reagents. Finish the enchantment with a row of lapis along the top and one on the left (L).\n§lLLL\nLB \nRrR§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "BOE Vol 8",
+                      "pages": [
+                          "§lBook of Enchanting Vol 8§r",
+                          "§lDon't Get Shot§r",
+                          "§lProjectile Protection III:§r\nPlace your book in the center (B) and use two arrows (R) and a piece of nether quartz (r) as the reagents. Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \nRrR§r",
+                          "§lProjectile Protection IV:§r\nPlace your book in the center (B) and use two arrows (R) and a scrap of netherite (r) as the reagents. Finish the enchantment with a row of lapis along the top and one on the left (L).\n§lLLL\nLB \nRrR§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "BOE Vol 9",
+                      "pages": [
+                          "§lBook of Enchanting Vol 9§r",
+                          "§lSurviving Lava§r",
+                          "§lFire Protection III:§r\nPlace your book in the center (B) and use two balls of magma creme (R) and a piece of nether quartz (r) as the reagents. Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \nRrR§r",
+                          "§lFire Protection IV:§r\nPlace your book in the center (B) and use two fire charges (R) and a scrap of netherite (r) as the reagents. Finish the enchantment with a row of lapis along the top and one on the left (L).\n§lLLL\nLB \nRrR§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "BOE Vol 10",
+                      "pages": [
+                          "§lBook of Enchanting Vol 10§r",
+                          "",
+                          "§lI Hate Spiders§r",
+                          "§lBane of Arthropods I:§r\nPlace your book in the center (B) and use a spider eye as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                          "§lBane of Arthropods II:§r\nPlace your book in the center (B) and use two spider eyes as the reagents (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nR R§r",
+                          "§lBane of Arthropods III:§r\nPlace your book in the center (B) and use a fermented spider eye as the reagent (R). Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \n R §r",
+                          "§lBane of Arthropods IV:§r\nPlace your book in the center (B) and use two fermented spider eyes as the reagents (R). Finish the enchantment with a row of lapis along the top and on the left (L).\n§lLLL\nLB \nR R§r",
+                          "§lBane of Arthropods V:§r\nPlace your book in the center (B) and use two fermented spider eyes (R) and a web (r) as the reagents. Finish the enchantment with a piece of lapis along the the top and both sides (L).\n§lLLL\nLBL\nRrR§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "BOE Vol 11",
+                      "pages": [
+                          "§lBook of Enchanting Vol 11§r",
+                          "",
+                          "§lEnchants From the Deep§r",
+                          "§lAqua Affinity:§r\nPlace your book in the center (B) and use a block of prismarine (P), a sea lantern (S), and a nautilus shell (N) as reagents. Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \nPSN§r",
+                          "§lDepth Strider II:§r\nPlace your book in the center (B) and use a dead fire coral (R) and prismarine crystals (r) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nR r§r",
+                          "§lDepth Strider III:§r\nPlace your book in the center (B) and use a piece of kelp (K), a prismarine shard (S) and a pufferfish (P) as the reagents. Finish the enchantment with a line of lapis along the top (L).\n§lLLL\n B \nKSP§r",
+                          "§lRespiration II:§r\nPlace your book in the center (B) and use some seagrass (R) and an ink sac (r) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nR r§r",
+                          "§lRespiration III:§r\nPlace your book in the center (B) and use a dead bubble coral (K), a glow ink sac (S) and a dead tube coral (P) as the reagents. Finish the enchantment with a line of lapis along the top (L).\n§lLLL\n B \nKSP§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "BOE Vol 12",
+                      "pages": [
+                          "§lBook of Enchanting Vol 12§r",
+                          "§lFish Tales§r",
+                          "§lLuck of the Sea I:§r\nPlace your book in the center (B) and use a waterlily (R) as the reagent. Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                          "§lLuck of the Sea II:§r\nPlace your book in the center (B) and use a sea pickle (R) as the reagent. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \n R §r",
+                          "§lLuck of the Sea III:§r\nPlace your book in the center (B) and use a piece of seagrass (S), a sea pickle (P), and a piece of kelp (K) as the reagents. Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \nSPK§r",
+                          "§lLure I:§r\nPlace your book in the center (B) and use a raw cod (R) as the reagent. Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                          "§lLure II:§r\nPlace your book in the center (B) and use a raw salmon (S) and a tropical fish (T) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nS T§r",
+                          "§lLure III:§r\nPlace your book in the center (B) and use a turtle egg (T) as the reagent. Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \n T §r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "BOE Vol 13",
+                      "pages": [
+                          "§lBook of Enchanting Vol 13§r",
+                          "",
+                          "§lSlaying the Undead§r",
+                          "§lSmite I:§r\nPlace your book in the center (B) and use a piece of rotten flesh as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                          "§lSmite II:§r\nPlace your book in the center (B) and use a bone as the reagent (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \n R §r",
+                          "§lSmite III:§r\nPlace your book in the center (B) and use a stone sword as the reagent (R). Finish the enchantment with a row of lapis along the top  (L).\n§lLLL\n B \n R §r",
+                          "§lSmite IV:§r\nPlace your book in the center (B) and use a ghast tear as the reagent (R). Finish the enchantment with a row of lapis along the top and on the left (L).\n§lLLL\nLB \n R §r",
+                          "§lSmite V:§r\nPlace your book in the center (B) and use a wither skeleton skull as the reagent (R). Finish the enchantment with a a row of lapis along the top and on both sides (L).\n§lLLL\nLBL\n R §r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "BOE Vol 14",
+                      "pages": [
+                          "§lBook of Enchanting Vol 14§r",
+                          "",
+                          "§lFire & Ice§r",
+                          "§lFire Aspect I:§r\nPlace your book in the center (B) and use a piece of Magma Cream as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                          "§lFire Aspect II:§r\nPlace your book in the center (B) and use a laval bucket as the reagent (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \n R §r",
+                          "§lFlame:§r\nPlace your book in the center (B) and use a fire charge as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                          "§lFrost Walker I:§r\nPlace your book in the center (B) and use a block of blue ice as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                          "§lFrost Walker II:§r\nPlace your book in the center (B) and use two blocks of blue ice as the reagents (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nR R§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "Misc Enchants v1",
+                      "pages": [
+                          "§lMiscellaneous Enchants Vol 1§r",
+                          "",
+                          "§lArmor Enchantments§r",
+                          "§lThorns II:§r\nPlace your book in the center (B) and use two sticks as the reagents (R). Finish the enchantment with lapis in the top left and right corners (L).\n§lL L\n B \nR R§r",
+                          "§lThorns III:§r\nPlace your book in the center (B) and use two sticks (R) and a cactus (r) as the reagents. Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \nRrR§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "Misc Enchants v2",
+                      "pages": [
+                          "§lMiscellaneous Enchants Vol 2§r",
+                          "",
+                          "§lMelee Weapon Enchantments§r",
+                          "§lLooting I:§r\nPlace your book in the center (B) and use an emerald as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                          "§lLooting II:§r\nPlace your book in the center (B) and use two emeralds as the reagents (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nR R§r",
+                          "§lLooting III:§r\nPlace your book in the center (B) and use an emerald block as the reagent (R). Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \n R §r",
+                          "§lKnockback I:§r\nPlace your book in the center (B) and use a potato as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                          "§lKnockback II:§r\nPlace your book in the center (B) and use two poisonous potatoes as the reagents (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nR R§r",
+                          "§lSharpness IV:§r\nPlace your book in the center (B) and use a flint and steel (R) and an amethyst shard (r) as the reagents. Finish the enchantment with lapis along the top and left side (L).\n§lLLL\nLB \nR r§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "Misc Enchants v3",
+                      "pages": [
+                          "§lMiscellaneous Enchants Vol 3§r",
+                          "",
+                          "§lRanged Weapon Enchantments§r",
+                          "§lInfinity:§r\nPlace your book in the center (B) and use three arrows as the reagents (R). Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \nRRR§r",
+                          "§lMultishot:§r\nPlace your book in the center (B) and use two arrows as the reagents (R). Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \nR R§r",
+                          "§lPiercing I:§r\nPlace your book in the center (B) and use a cactus as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                          "§lPiercing II:§r\nPlace your book in the center (B) and use two pieces of redstone (R) and a cactus (r) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nRrR§r",
+                          "§lPiercing III:§r\nPlace your book in the center (B) and use a piece of pointed dripstone as the reagent (R). Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \n R §r",
+                          "§lPiercing IV:§r\nPlace your book in the center (B) and use two pieces of redstone (R) and a piece of pointed dripstone (r) as the reagents. Finish the enchantment with lapis along the top and left side (L).\n§lLLL\nLB \nRrR§r",
+                          "§lPower IV:§r\nPlace your book in the center (B) and use an arrow (A), a flint and steel (F), and an amethyst shard (S) as the reagents. Finish the enchantment with lapis along the top and left side (L).\n§lLLL\nLB \nAFS§r",
+                          "§lPunch I:§r\nPlace your book in the center (B) and use an arrow (R) and a potato (r) as the reagents. Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \nR r§r",
+                          "§lPunch II:§r\nPlace your book in the center (B) and use two arrows (R) and a poisonous potato (r) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nRrR§r",
+                          "§lQuick Charge I:§r\nPlace your book in the center (B) and use some sugar as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                          "§lQuick Charge II:§r\nPlace your book in the center (B) and use a cookie as the reagent (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \n R §r",
+                          "§lQuick Charge III:§r\nPlace your book in the center (B) and use a cake as the reagent (R). Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \n R §r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "Misc Enchants v4",
+                      "pages": [
+                          "§lMiscellaneous Enchants Vol 4§r",
+                          "",
+                          "§lTrident Enchantments§r",
+                          "§lChanneling:§r\nPlace your book in the center (B) and use a lightning rod as the reagent (R). Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \n R §r",
+                          "§lImpaling I:§r\nPlace your book in the center (B) and use a wooden sword as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                          "§lImpaling II:§r\nPlace your book in the center (B) and use an iron sword as the reagent (R). Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \n R §r",
+                          "§lImpaling III:§r\nPlace your book in the center (B) and use a golden sword as the reagent (R). Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \n R §r",
+                          "§lImpaling IV:§r\nPlace your book in the center (B) and use an end rod as the reagent (R). Finish the enchantment with lapis along the top and left side (L).\n§lLLL\nLB \n R §r",
+                          "§lImpaling V:§r\nPlace your book in the center (B) and use a diamond sword as the reagent (R). Finish the enchantment with lapis along the top and sides (L).\n§lLLL\nLBL\n R §r",
+                          "§lLoyalty I:§r\nPlace your book in the center (B) and use a lead as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                          "§lLoyalty II:§r\nPlace your book in the center (B) and use a lead (R) and a prismarine shard (r) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nR r§r",
+                          "§lLoyalty III:§r\nPlace your book in the center (B) and use two leads (R) and a prismarine crystal (r) as the reagents. Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \nRrR§r",
+                          "§lRiptide I:§r\nPlace your book in the center (B) and use a prismarine shard as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                          "§lRiptide II:§r\nPlace your book in the center (B) and use prismarine crystals (R) and a prismarine shard (r) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nRrR§r",
+                          "§lRiptide III:§r\nPlace your book in the center (B) and use prismarine shards (R) and a heart of the sea (r) as the reagents. Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \nRrR§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "Misc Enchants v5",
+                      "pages": [
+                          "§lMiscellaneous Enchants Vol 5§r",
+                          "",
+                          "§lTool Enchantments§r",
+                          "§lEfficiency IV:§r\nPlace your book in the center (B) and use a polished blackstone brick slab (P), a stone pickaxe (S), and a nether brick slab (N) as the reagents. Finish the enchantment with lapis along the top and left side (L).\n§lLLL\nLB \nPSN§r",
+                          "§lFortune I:§r\nPlace your book in the center (B) and use a copper ore block as the reagent (R). Finish the enchantment with a piece of lapis in the top left corner (L).\n§lL  \n B \n R §r",
+                          "§lFortune II:§r\nPlace your book in the center (B) and use two iron ore blocks as the reagents (R). Finish the enchantment with a piece of lapis in the top corners (L).\n§lL L\n B \nR R§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },        
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "Efficiency V",
+                      "pages": [
+                          "Place your book in the center (B).\nPlace a row of lapis along the top (L).\nFill the remaining slots with Eyes of Ender (R).\n§lLLL\nRBR\nRRR§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "Fortune III",
+                      "pages": [
+                          "Place your book in the center (B).\nPlace a row of lapis along the top (L).\nPlace blocks of gold ore in the bottom Left and Right corners (R) and a piece of redstone dust in the bottom (r).\n§lLLL\n B \nRrR§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "Mending",
+                      "pages": [
+                          "Place your book in the center (B).\nPlace lapis along the top and sides (L).\nPlace sculk blocks in the bottom Left and Right corners (R) and a block of redstone dust in the bottom (r).\n§lLLL\nLBL\nRrR§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "Power V",
+                      "pages": [
+                          "Place your book in the center (B).\nPlace lapis along the top and sides (L).\nPlace a piece of bamboo in the bottom Left and Right corners (R) and a chain in the bottom (r).\n§lLLL\nLBL\nRrR§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "Protection IV",
+                      "pages": [
+                          "Place your book in the center (B).\nPlace a row of lapis along the top and Left side (L).\nPlace a scrap of netherite in the bottom (R).\n§lLLL\nLB \n R §r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "Sharpness V",
+                      "pages": [
+                          "Place your book in the center (B).\nPlace lapis along the top and sides (L).\nPlace a chain in the bottom Left and Right corners (R) and a block of iron in the bottom (r).\n§lLLL\nLBL\nRrR§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 1,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:written_book",
+                  "functions": [
+                    {
+                      "function": "set_book_contents",
+                      "author": "Gyver5681",
+                      "title": "Silk Touch",
+                      "pages": [
+                          "Place your book in the center (B).\nPlace lapis along the top and sides (L).\nAlong the bottom, place a piece of redstone dust (R), shears (S), and a piece of glowstone dust (G).\n§lLLL\nLBL\nRSG§r"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+
+          ]
+        },
+        {
+          "num_to_select": 5,
+          "trades": [
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:sea_pickle"
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 4
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:slime_ball"
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:glowstone"
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:nautilus_shell"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:tallgrass:2"
+                }
+              ]
+            },
+            {
+              "max_uses": 8,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:reeds"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:pumpkin"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:kelp"
+                }
+              ]
+            },
+            {
+              "max_uses": 8,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:cactus"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:yellow_flower"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:red_flower:0"
+                }
+              ]
+            },
+            {
+              "max_uses": 8,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:red_flower:1"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:red_flower:2"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:red_flower:3"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:red_flower:4"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:red_flower:5"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:red_flower:6"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:red_flower:7"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:red_flower:8"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:red_flower:9"
+                }
+              ]
+            },
+            {
+              "max_uses": 7,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:red_flower:10"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:wheat_seeds"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:beetroot_seeds"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:pumpkin_seeds"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:melon_seeds"
+                }
+              ]
+            },
+            {
+              "max_uses": 8,
+              "weight":6,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "choice": [
+                    {
+                      "item": "minecraft:sapling",
+                      "functions": [
+                        {
+                          "function": "random_block_state",
+                          "block_state": "sapling_type",
+                          "values": {
+                            "min": 0,
+                            "max": 5
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "item": "minecraft:cherry_sapling"
+                    },
+                    {
+                      "item": "minecraft:mangrove_propagule"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "weight":16,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "choice": [
+                    {"item": "minecraft:red_dye", "quantity": 3},
+                    {"item": "minecraft:white_dye", "quantity": 3},
+                    {"item": "minecraft:blue_dye", "quantity": 3},
+                    {"item": "minecraft:pink_dye", "quantity": 3},
+                    {"item": "minecraft:black_dye", "quantity": 3},
+                    {"item": "minecraft:green_dye", "quantity": 3},
+                    {"item": "minecraft:light_gray_dye", "quantity": 3},
+                    {"item": "minecraft:magenta_dye", "quantity": 3},
+                    {"item": "minecraft:yellow_dye", "quantity": 3},
+                    {"item": "minecraft:gray_dye", "quantity": 3},
+                    {"item": "minecraft:purple_dye", "quantity": 3},
+                    {"item": "minecraft:light_blue_dye", "quantity": 3},
+                    {"item": "minecraft:lime_dye", "quantity": 3},
+                    {"item": "minecraft:orange_dye", "quantity": 3},
+                    {"item": "minecraft:brown_dye", "quantity": 3},
+                    {"item": "minecraft:cyan_dye", "quantity": 3}
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 8,
+              "weight":5,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:coral_block",
+                  "quantity": 1,
+                  "functions": [
+                    {
+                      "function": "random_block_state",
+                      "block_state": "coral_color",
+                      "values": {
+                        "min": 0,
+                        "max": 4
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:vine"
+                }
+              ]
+            },
+            {
+              "max_uses": 12,
+              "weight":2,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "choice": [
+                    {
+                      "item": "minecraft:brown_mushroom"
+                    },
+                    {
+                      "item": "minecraft:red_mushroom"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:waterlily",
+                  "quantity": 2
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:small_dripleaf_block",
+                  "quantity": 2
+                }
+              ]
+            },
+            {
+              "max_uses": 8,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:sand:0",
+                  "quantity": 8
+                }
+              ]
+            },
+            {
+              "max_uses": 6,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:sand:1",
+                  "quantity": 4
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:pointed_dripstone",
+                  "quantity": 2
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:dirt_with_roots",
+                  "quantity": 2
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:moss_block",
+                  "quantity": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:bucket:4"
+                }
+              ]
+            },
+            {
+              "max_uses": 4,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 5
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:bucket:5"
+                }
+              ]
+            },
+            {
+              "max_uses": 6,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:packed_ice"
+                }
+              ]
+            },
+            {
+              "max_uses": 6,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 6
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:blue_ice"
+                }
+              ]
+            },
+            {
+              "max_uses": 8,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:gunpowder"
+                }
+              ]
+            },
+            {
+              "max_uses": 6,
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 3
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:podzol",
+                  "quantity": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

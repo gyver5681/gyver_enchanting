@@ -1,0 +1,31 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:written_book",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_book_contents",
+                            "author": "Gyver5681",
+                            "title": "BOE Vol 11",
+                            "pages": [
+                                "§lBook of Enchanting Vol 11§r",
+                                "",
+                                "§lEnchants From the Deep§r",
+                                "§lAqua Affinity:§r\nPlace your book in the center (B) and use a block of prismarine (P), a sea lantern (S), and a nautilus shell (N) as reagents. Finish the enchantment with a row of lapis along the top (L).\n§lLLL\n B \nPSN§r",
+                                "§lDepth Strider II:§r\nPlace your book in the center (B) and use a dead fire coral (R) and prismarine crystals (r) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nR r§r",
+                                "§lDepth Strider III:§r\nPlace your book in the center (B) and use a piece of kelp (K), a prismarine shard (S) and a pufferfish (P) as the reagents. Finish the enchantment with a line of lapis along the top (L).\n§lLLL\n B \nKSP§r",
+                                "§lRespiration II:§r\nPlace your book in the center (B) and use some seagrass (R) and an ink sac (r) as the reagents. Finish the enchantment with a piece of lapis in the top left and right corners (L).\n§lL L\n B \nR r§r",
+                                "§lRespiration III:§r\nPlace your book in the center (B) and use a dead bubble coral (K), a glow ink sac (S) and a dead tube coral (P) as the reagents. Finish the enchantment with a line of lapis along the top (L).\n§lLLL\n B \nKSP§r"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

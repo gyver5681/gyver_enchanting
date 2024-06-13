@@ -1,0 +1,43 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "gyver_enchant:enchant_book_efficiency_4"
+        },
+        "tags": [
+            "enchant_crafting_table"
+        ],
+        "pattern": [
+            "LLL",
+            "LB ",
+            "PSN"
+        ],
+        "key": {
+            "B": {
+                "item": "book"
+            },
+            "P": {
+                "item": "minecraft:polished_blackstone_brick_slab"
+            },
+            "S": {
+                "item": "minecraft:stone_pickaxe"
+            },
+            "N": {
+                "item": "minecraft:double_stone_slab",
+                "data": 7
+            },
+            "L": {
+                "item": "minecraft:lapis_lazuli"
+            }
+        },
+        "unlock": [
+            {
+                "item": "minecraft:book"
+            }
+        ],
+        "result": {
+            "item": "gyver_enchant:book_efficiency_4"
+        },
+        "priority": -1
+    }
+}

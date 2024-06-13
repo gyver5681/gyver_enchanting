@@ -1,0 +1,24 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:written_book",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_book_contents",
+                            "author": "Gyver5681",
+                            "title": "Protection IV",
+                            "pages": [
+                                "Place your book in the center (B).\nPlace a row of lapis along the top and Left side (L).\nPlace a scrap of netherite in the bottom (R).\n§lLLL\nLB \n R §r"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

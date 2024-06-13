@@ -1,0 +1,42 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "gyver_enchant:enchant_book_depth_strider_3"
+        },
+        "tags": [
+            "enchant_crafting_table"
+        ],
+        "pattern": [
+            "LLL",
+            " B ",
+            "KSP"
+        ],
+        "key": {
+            "B": {
+                "item": "book"
+            },
+            "K": {
+                "item": "minecraft:dead_bubble_coral"
+            },
+            "S": {
+                "item": "minecraft:glow_ink_sac"
+            },
+            "P": {
+                "item": "minecraft:dead_tube_coral"
+            },
+            "L": {
+                "item": "minecraft:lapis_lazuli"
+            }
+        },
+        "unlock": [
+            {
+                "item": "minecraft:book"
+            }
+        ],
+        "result": {
+            "item": "gyver_enchant:book_depth_strider_3"
+        },
+        "priority": -1
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Gyver's Enchanted Book Crafting",
+        "name": "Gyver's Enchanting [R]",
+        "uuid": "c22a8a42-b5a9-421d-987c-6ee718bf6b38",
+        "version": [0, 0, 2],
+		"min_engine_version": [1, 20, 10]
+    },
+    "modules": [
+        {
+            "description": "Gyver's Enchanted Book Crafting",
+            "type": "resources",
+            "uuid": "e83be8ef-6cd9-46d0-bc14-8988af8597a4",
+            "version": [0, 0, 2]
+        }
+    ], 
+    "dependencies": [ 
+        { 
+            "uuid": "18b2e2fc-5e7d-4733-9856-c3fd7a0099d6",
+            "version": [0, 0, 2]
+        } 
+    ] 
+}
